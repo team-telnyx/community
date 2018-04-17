@@ -45,7 +45,7 @@ Consequences
 
 Participants asked to stop any unacceptable behavior are expected to comply immediately.
 
-If a participant engages in harassing behavior, the admins may take any action they deem appropriate, up to and including expulsion from this slack and identifying the participant publicly as someone about whom we've received complaints.
+If a participant engages in harassing behavior, the admins may take any action they deem appropriate, up to and including expulsion.
 
 Credits and License
 --------------------
