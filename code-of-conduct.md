@@ -8,7 +8,6 @@ This is Telnyx's developer's outreach channel. Please feel free to ask questions
 
 The current admins are:
 * Demetri Ganoff
-* Gabriel Taylor Russ
 * Yiu Ming Huynh
 
 We are commited to building a friendly, safe, and harassment-free developer community for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of participants in any form. Participants asked to stop any harassing behavior are expected to comply immediately.
